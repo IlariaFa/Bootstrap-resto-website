@@ -6,46 +6,47 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link href="assets/css/style.css" rel="stylesheet" type="text/css">
-    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="icon" href="https://kingsshep.com/wp-content/uploads/2018/01/cropped-favicon-2.png" type="image/png"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <title>Contact</title>
 </head>
 <body>
 <div class="container">
-    
+
 <!--Navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark primary-color">
-        <a class="navbar-brand" href="index.html">Acceuille</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
-          aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item active">
-              <a class="nav-link" href="carte.html">Carte <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="photos.html">Photos</a>
-            </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="restaurants.html">Restaurants</a>
-            </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="contact.html">Contact</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
+    <a class="navbar-brand" href="index.html"><i class="fas fa-home"></i> Acceuille</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
+      aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="carte.html"><i class="fas fa-calendar-minus"></i> Carte <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="photos.html"><i class="fas fa-camera-retro"></i> Photos</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="restaurants.html"><i class="fas fa-file-signature"></i> Restaurants</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="contact.html"><i class="fas fa-user-alt"></i> Contact</a>
+        </li>
+      </ul>
+    </div>
+         </nav>
 
 <!--fin navbar-->
 <!--formulaire-->
 <form>
         <div class="form-group">
-            <label for="exampleFormControlInput1"><br>Name</label><br>
+            <label for="exampleFormControlInput1"><br>Name</label>
             <input type="" class="form-group" id="exampleFormControlInput1" placeholder=" Name">
-        </div>
-        <div class="form-group">
-                <label for="exampleFormControlInput1"><br>Surname</label><br>
+        
+                <label id="surname" for="exampleFormControlInput1"><br>Surname</label>
                 <input type="" class="form-group" id="exampleFormControlInput1" placeholder=" Surname">
         </div>
         <div class="form-group">
@@ -55,29 +56,31 @@
         <div class="form-group">
           <label for="exampleFormControlSelect1">Example select</label>
           <select class="form-control" id="exampleFormControlSelect1">
-            <option>1</option>
-            <option>2</option>
-            <option>3</option>
-            <option>4</option>
-            <option>5</option>
+            <option>Choississez l'objet de votre message</option>
+            <option>Reserver</option>
+            <option>Travaillez avec nous</option>
+            <option>Donnez votre avis</option>
+            <option>Autre</option>
           </select>
         </div>
         <div class="form-group">
           <label for="exampleFormControlSelect2">Example multiple select</label>
           <select multiple class="form-control" id="exampleFormControlSelect2">
-            <option>1</option>
-            <option>2</option>
-            <option>3</option>
-            <option>4</option>
-            <option>5</option>
+            <option>J'ai bien mangé</option>
+            <option>Je n'ai pas bien mangé</option>
+            <option>Je voudrairs choisir un table particulier</option>
+            <option>Je cherche du travail!</option>
+            <option>Je reserve pour ce soir!</option>
           </select>
         </div>
         <div class="form-group">
-          <label for="exampleFormControlTextarea1">Example textarea</label>
-          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+          <label for="exampleFormControlTextarea1" >Example textarea</label>
+          <textarea placeholder="Contacte nous! "  class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
         </div>
-      
-        <input class="btn btn-primary"  class="glyphicon glyphicon-envelope" type="submit" value="Submit">
+      <div>
+        
+        <input  class="btn btn-primary"  class="glyphicon glyphicon-envelope" type="submit" value="Submit"> 
+      </div>  
       </form>  
 
 <!--label-->      

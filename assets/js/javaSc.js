@@ -29,4 +29,3 @@ var date = month + "/" + day + "/" + year;
 
 document.write("Current date:" + date);
 */
-
