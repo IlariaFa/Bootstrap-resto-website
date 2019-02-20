@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(241, 228, 111);
+}
+
+/*acceuille*/
+/* body {
+    background: url(../img/pizza.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+*/
+
+.jumbotron{
+    opacity:0.5;
+    text-align: center;
+    height: 200px;
+}
+/*Carte*/
+div h1#carte.container{
+    align: center;
+    
+}
+
+.navbar{
+    background-color: black;
+    color:white;
+}
+
+/*ligtbox*/
+div#lighthouse.row {
+    margin: 15px;
+  }
+
+  .bootstrap-demo{
+      margin:30px;
+    }
+ #satisfaction{
+     padding: 40px;
+ }   
+/*
+ .mapouter{
+     text-align:right;
+     height:500px;
+     width:600px;
+    }
+.gmap_canvas{
+    overflow:hidden;
+    background:none!important;
+    height:500px;
+    width:600px;
+}
+.mapouter2{
+    text-align:right;
+    height:500px;
+    width:600px;
+}
+.gmap_canvas2{
+    overflow:hidden;
+    background:none!important;
+    height:500px;
+    width:600px;
+}
+.mapouter3{
+    text-align:right;
+    height:500px;
+    width:600px;
+}
+.gmap_canvas3{
+    overflow:hidden;
+    background:none!important;
+    height:500px;
+    width:600px;}
+*/
+
+img.container.jumbotron{
+    width: 40px;
+}
