@@ -29,3 +29,18 @@ var date = month + "/" + day + "/" + year;
 
 document.write("Current date:" + date);
 */
+
+
+ 
+/* partie acceuil */
+
+(function() {
+
+  var userprenom = prompt("Quelle est ton prénom ?");
+  window.document.getElementById("visiteur").innerHTML="<h2> Bienvenu/e " + userprenom + " !!</h2>"
+ 
+  })();
+
+/* fin partie restaurants */   
+/* partie animation */
+ AOS.init();

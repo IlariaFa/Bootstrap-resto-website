@@ -1,1 +1,23 @@
 # Bootstrap-resto-website
+
+**Exercice pour la programmatino d'un site responsif avec Bootstrap:**
+
+Ce site internet as été reslisé par Ilaria Fantini.
+Le site est un site vitrine d'une franchise de pizzerias situé à Bruxelles.
+
+Le site as été realisé entr ele 18 et le 21 fevrier 2019 pour acquérir plus de familiarité avec Bootstrap au sein de la formation de web developpement chez BeCode.
+
+Le projet n'est pas fini mais en cours. 
+
+**Langages utilisés:**
+
+- CSS
+- Java Script
+- HTML
+
+
+
+
+**Credit:**
+footer et nav:
+https://mdbootstrap.com/docs/jquery/navigation/footer/
