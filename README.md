@@ -41,8 +41,10 @@ Le client souhaite que dans la partie Restaurants, en plus de l'affichage des ho
 
 **Maquette**
 
+![image](Bootstrap-resto-website/assets/img/pizzeria.jpeg)
+
 **Credit:**
 footer et navbar:
-https://mdbootstrap.com/docs/jquery/navigation/footer/
+https://mdbootstrap.com/docs/jquery/navigation/footer/   
 photos:
 https://unsplash.com/search/photos/
