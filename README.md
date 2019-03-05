@@ -1,12 +1,14 @@
 # Premier Site Boostrap
+* * * 
 
 ## Bootstrap-resto-website
 
 ### Git Hub page : [Site Web Pizzeria](https://ilariafa.github.io/Bootstrap-resto-website/index.html)
+#### Realisé par Ilaria Fantini
 
 **Description de l'exercice:**
 
-Programmatino d'un site responsif avec Bootstrap:
+Le but de l'exercice est de programmer un site responsif avec Bootstrap:
 
 Ce site internet as été reslisé par Ilaria Fantini.
 il est un site-vitrine pour une franchise de pizzerias situé à Bruxelles.
