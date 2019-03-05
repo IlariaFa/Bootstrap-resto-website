@@ -2,7 +2,7 @@
 
 ## Bootstrap-resto-website
 
-### Git Hub page : https://ilariafa.github.io/Bootstrap-resto-website/index.html
+### Git Hub page : [https://ilariafa.github.io/Bootstrap-resto-website/index.html "Pizzeria"]
 
 **Description de l'exercice:**
 
