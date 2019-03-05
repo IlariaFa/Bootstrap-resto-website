@@ -13,10 +13,6 @@ J'ai ainsi crée un site pour une franchise de pizzeries fictifs que j'ai situé
 
 Le site as été realisé entre le 18 et le 21 fevrier 2019 pour acquérir plus de familiarité avec Bootstrap au sein de la formation de web developpement chez BeCode.
 
-**Etat du projet:**  
-
-En cours.
-
 **Langages utilisés:**
 
 - CSS
@@ -47,4 +43,15 @@ Le client souhaite que dans la partie Restaurants, en plus de l'affichage des ho
 footer et navbar:
 https://mdbootstrap.com/docs/jquery/navigation/footer/   
 photos:
-https://unsplash.com/search/photos/
+https://unsplash.com/search/photos/  
+
+**Etat du projet:**  
+
+En cours. To do list: 
+
+- title (nom du site + nome de la page où on se trouve)    
+- alt img  
+- substituer "lorem" text  
+- redimensionner les img  
+- PWA (manifeste etc etc)  
+- ajouter une descritpion dans la <head> de chaque page pour ameliorer le SEO (<meta name= "Description" content="Put your description">: on peut utiliser aussi que des mots cles.
