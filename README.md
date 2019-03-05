@@ -54,4 +54,4 @@ En cours. To do list:
 - substituer "lorem" text  
 - redimensionner les img  
 - PWA (manifeste etc etc)  
-- ajouter une descritpion dans la <head> de chaque page pour ameliorer le SEO (<meta name= "Description" content="Put your description">: on peut utiliser aussi que des mots cles.
+- ajouter une descritpion dans la < head > de chaque page pour ameliorer le SEO (< meta name= "Description" content="Put your description" >: on peut utiliser aussi que des mots cles.
