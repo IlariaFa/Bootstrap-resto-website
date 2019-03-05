@@ -14,6 +14,7 @@ J'ai ainsi crée un site pour une franchise de pizzeries fictifs que j'ai situé
 Le site as été realisé entre le 18 et le 21 fevrier 2019 pour acquérir plus de familiarité avec Bootstrap au sein de la formation de web developpement chez BeCode.
 
 **Etat du projet:**  
+
 En cours.
 
 **Langages utilisés:**
